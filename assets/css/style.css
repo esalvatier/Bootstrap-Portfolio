@@ -40,6 +40,10 @@ a.navbar-brand {
   color: #ffffff;
 }
 
+#portfolioCard {
+  background-color: #777474;
+}
+
 .img-container {
   margin: 1em;
 }
